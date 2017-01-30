@@ -1,4 +1,4 @@
-# FlappyBird-LearningToFly
+#    Flappy Bird - Learning To Fly
 
 Instructions to Run the Game:
 
